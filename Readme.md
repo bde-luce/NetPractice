@@ -4,8 +4,8 @@
 
 ## 📌 Description
 
-**NetPractice** is a practical networking project designed to develop a deep understanding
-of how computer networks operate at a low level.
+**NetPractice** is a practical networking project from the 42 curriculum designed to build
+a strong understanding of IP addressing, routing, and network behavior.
 
 The project consists of solving a series of network configuration challenges where
 hosts initially cannot communicate. Each challenge requires analyzing a network diagram
@@ -23,12 +23,12 @@ and why bidirectional routing is essential for successful communication.
 ### 🚀 Running the Training Interface
 
 1. Download the files attached to the NetPractice project page.
-2. Extract them into a directory of your choice.
-3. Open the `index.html` file in a web browser.
+2. Extract the archive into a directory of your choice.
+3. Open the `index.html` file in your web browser.
 
-The interface allows two modes:
-- **Practice mode** by entering your 42 login, using a personal configuration
-- **Evaluation mode**, which generates random configurations similar to official evaluations
+You can then:
+- Enter your **42 login** to practice with a personal configuration
+- Use **evaluation mode** to generate random configurations similar to official evaluations
 
 ---
 
