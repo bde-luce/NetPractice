@@ -1,8 +1,8 @@
-*This project has been created as part of the 42 curriculum by <login>.*
+*This project has been created as part of the 42 curriculum by bde-luce.*
 
-# NetPractice
+# 🌐 NetPractice
 
-## Description
+## 📌 Description
 
 **NetPractice** is a practical networking project designed to develop a deep understanding
 of how computer networks operate at a low level.
@@ -18,9 +18,9 @@ and why bidirectional routing is essential for successful communication.
 
 ---
 
-## Instructions
+## ▶️ Instructions
 
-### Running the Training Interface
+### 🚀 Running the Training Interface
 
 1. Download the files attached to the NetPractice project page.
 2. Extract them into a directory of your choice.
@@ -32,7 +32,7 @@ The interface allows two modes:
 
 ---
 
-### Using the Interface
+### 🧭Using the Interface
 
 - The project contains **10 progressive levels**.
 - Each level displays a **non-functioning network diagram**.
@@ -50,7 +50,7 @@ as missing gateways, invalid routes, or missing return paths.
 
 ---
 
-### Submission Requirements
+### 📤Submission Requirements
 
 - All **10 exercises must be completed successfully**.
 - The final configuration must be exported using **Get my config**.
@@ -58,7 +58,7 @@ as missing gateways, invalid routes, or missing return paths.
 
 ---
 
-## Technical Concepts Covered
+## 🧠 Technical Concepts Covered
 
 Throughout the project, the following networking concepts were applied:
 
@@ -74,9 +74,9 @@ Throughout the project, the following networking concepts were applied:
 
 ---
 
-## Resources
+## 📚 Resources
 
-### Networking References
+### 🔗 Networking References
 
 - Internet Protocol (IP) documentation (RFCs)
 - Cisco Networking Academy – Networking fundamentals
@@ -85,7 +85,7 @@ Throughout the project, the following networking concepts were applied:
 
 ---
 
-### Use of AI
+### 🤖 Use of AI
 
 AI tools were used as a **learning aid** during this project, specifically for:
 - Clarifying networking concepts and routing behavior
